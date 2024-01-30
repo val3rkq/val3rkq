@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi 👋, I'm Valery</h1>
+<p align="center">
+		<img alt="Valery's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Valery">
+</p>
 <h3 align="center">A Flutter-developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=val3rkq&label=Profile%20views&color=0e75b6&style=flat" alt="val3rkq" /> </p>
@@ -33,7 +35,6 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/val3rkq"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="val3rkq" /></a></p>
 <h3></h3>
-<br></br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=val3rkq&show_icons=true&locale=en&layout=compact" alt="val3rkq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=val3rkq&show_icons=true&locale=en" alt="val3rkq" /></p>
