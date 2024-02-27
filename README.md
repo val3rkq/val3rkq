@@ -48,5 +48,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=val3rkq&show_icons=true&locale=en&layout=compact" alt="val3rkq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=val3rkq&show_icons=true&locale=en" alt="val3rkq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=val3rkq&" alt="val3rkq" /></p>
